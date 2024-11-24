@@ -153,8 +153,9 @@ To set it up, head to the LG Tasks screen by pressing the menu icon.
 
 In the many buttons present on the LG Tasks screen, you shall see the buttons `SET SLAVES REFRESH` and `RESET SLAVES REFRESH`. The first one will setup your slave screens to refresh its solo KML every 2 seconds. The second one will make your slaves stop refreshing.
   
-> ❗ _Both actions will **reboot** your Liquid Galaxy, so the changes may be applied._
-      
+> [!WARNING]
+> Both actions will **reboot** your Liquid Galaxy, so the changes may be applied.
+   
 ## Guide for Open Source Contributors
 
 #### To Edit a particular translation
