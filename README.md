@@ -129,7 +129,8 @@ $ flutter doctor
   
 *  After this, we run our app by using the following command:
 
-> ❗ Remember that you must have a tablet device connected or an android tablet emulator running in order to run the app.
+> [!TIP]
+> Remember that you must have a tablet device connected or an android tablet emulator running in order to run the app.
 
 ```bash
 $ flutter run
@@ -140,8 +141,8 @@ $ flutter run
 ```bash
 $ flutter build apk
 ```
-   
-> ⓘ  Once done, the APK file may be found into the `/build/app/outputs/flutter-apk/` directory, named `app-release.apk`.
+> [!NOTE]   
+> Once done, the APK file may be found into the `/build/app/outputs/flutter-apk/` directory, named `app-release.apk`.
     
 * Finally setup the connection with the Liquid Galaxy in the same way as we did previously.  
    
